@@ -14,6 +14,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shama-k17/leetcode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Shama-k17/leetcode/tree/master/0225-implement-stack-using-queues) |
 ## Design
 |  |
@@ -23,4 +24,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shama-k17/leetcode/tree/master/0225-implement-stack-using-queues) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shama-k17/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
