@@ -47,4 +47,16 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Shama-k17/leetcode/tree/master/0224-basic-calculator) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Shama-k17/leetcode/tree/master/0141-linked-list-cycle) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Shama-k17/leetcode/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Shama-k17/leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
