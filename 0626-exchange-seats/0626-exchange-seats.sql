@@ -1,0 +1,7 @@
+# Write your MySQL query statement below
+select id, 
+case when id%2=1 then coalesce(LEAD(student) over(order by id),student)
+else LAG(student) over (order by id)
+end as student
+from seat
+order by id;
