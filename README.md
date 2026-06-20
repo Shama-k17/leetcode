@@ -77,4 +77,5 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0627-swap-sex-of-employees](https://github.com/Shama-k17/leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1045-customers-who-bought-all-products](https://github.com/Shama-k17/leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Shama-k17/leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1068-product-sales-analysis-i](https://github.com/Shama-k17/leetcode/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
