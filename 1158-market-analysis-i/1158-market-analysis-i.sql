@@ -5,4 +5,4 @@ SELECT
 FROM Users U
 LEFT JOIN Orders O 
     ON U.user_id = O.buyer_id
-GROUP BY U.user_id, U.join_date;
+GROUP BY U.user_id;
